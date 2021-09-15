@@ -37,11 +37,11 @@ email: patrickcannon@improbable.io
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/pw_cannon'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Twitter
+#     link: 'https://twitter.com/pw_cannon'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
