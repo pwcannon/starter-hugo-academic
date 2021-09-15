@@ -23,12 +23,12 @@ twitter: ''
 email: patrickcannon@improbable.io
 # phone: 888 888 88 88
 address:
-  # street: 450 Serra Mall
-  city: London
+  street: London, UK
+  # city: London
   # region: CA
   # postcode: '94305'
-  country: UK
-  country_code: UK
+  # country: UK
+  # country_code: UK
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
