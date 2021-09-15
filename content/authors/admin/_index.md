@@ -3,43 +3,43 @@ title: Patrick Cannon
 role: ML Research Scientist
 bio: My research interests include YYYYY
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Simulation based inference
+  - Computational statistics
+  - Probabilistic machine learning
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/pw_cannon
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=drP5-oIAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pwcannon
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/patrick-cannon/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Improbable
+    url: https://www.improbable.io
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Statistics
+      institution: Bristol University
+      year: 2019
+    - course: MSc in Applied Mathematics
+      institution: Oxford University
+      year: 2014
+    - course: BSc in Mathematics
+      institution: Bristol University
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
 ---
 I'm a machine learning and statistics researcher, currently working at [Improbable](www.improbable.io).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
