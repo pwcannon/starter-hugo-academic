@@ -12,12 +12,12 @@ location: Virtual
 #   postcode: '94305'
 #   country: United States
 
-# summary: An example talk using Wowchemy's Markdown slides feature.
+summary:
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-28T13:00:00Z"
+date: "2021-06-28"
 # date_end: "2021-06-28T15:00:00Z"
 all_day: false
 
