@@ -3,9 +3,9 @@ title: Patrick Cannon
 role: ML Research Scientist
 bio: My research interests include YYYYY
 interests:
-  - Simulation based inference
-  - Computational statistics
   - Probabilistic machine learning
+  - Computational statistics
+  - Simulation based inference
 social:
   - icon: envelope
     icon_pack: fas
