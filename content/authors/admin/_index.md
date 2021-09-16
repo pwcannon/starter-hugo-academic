@@ -40,6 +40,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a Research Scientist at [Improbable](http://www.improbable.io) where I work largely on simulation-based inference for scientific modelling. More broadly my interest lies in probabilistic machine learning and statistics and their use in solving important scientific challenges. Prior to working in industry I gained a PhD in statistics, with a thesis on Markov chain Monte Carlo techniques for inference in _coalescent_ population genetic models, supervised by professors [Christophe Andrieu](https://scholar.google.com/citations?user=kcsbLrAAAAAJ) and [Mark Beaumont](https://scholar.google.com/citations?user=2K3F0MMAAAAJ&hl=en).
+TEST I'm a Research Scientist at [Improbable](http://www.improbable.io) where I work largely on simulation-based inference for scientific modelling. More broadly my interest lies in probabilistic machine learning and statistics and their use in solving important scientific challenges. Prior to working in industry I gained a PhD in statistics, with a thesis on Markov chain Monte Carlo techniques for inference in _coalescent_ population genetic models, supervised by professors [Christophe Andrieu](https://scholar.google.com/citations?user=kcsbLrAAAAAJ) and [Mark Beaumont](https://scholar.google.com/citations?user=2K3F0MMAAAAJ&hl=en).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
