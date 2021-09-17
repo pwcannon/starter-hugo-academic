@@ -42,7 +42,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "AABI_slides.pdf"
-url_video: "https://www.youtube.com/watch?v=VWakGnjBHbY"
+url_video: https://www.youtube.com/watch?v=VWakGnjBHbY
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
