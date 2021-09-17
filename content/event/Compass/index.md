@@ -1,5 +1,5 @@
 ---
-title: Generalized posteriors in approximate Bayesian computation
+title: Bristol Compass CDT DataScience@Work seminar
 
 event: Bristol Compass CDT, DataScience@Work seminar
 event_url: https://compass.blogs.bristol.ac.uk/calendar_event/improbable-datasciencework-seminar/
@@ -41,7 +41,7 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: isba_slides.pdf
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
