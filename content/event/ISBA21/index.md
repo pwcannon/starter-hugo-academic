@@ -12,7 +12,7 @@ address:
   postcode:
   country: 
 
-summary: 
+summary: International society for Bayesian analysis (ISBA) world meeting
 abstract: ""
 
 # Talk start and end times.
