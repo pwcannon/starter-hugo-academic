@@ -34,4 +34,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Third Symposium on Advances in Approximate Bayesian Inference*'
+url_pdf: https://arxiv.org/abs/2011.08644
+url_code: https://github.com/improbable-research/gen-posterior-abc
+url_hi: https://github.com/improbable-research/gen-posterior-abc
 ---
