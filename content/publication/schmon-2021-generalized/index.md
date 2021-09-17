@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Sebastian M Schmon*
-- admin*
+- Patrick W Cannon*
 - Jeremias Knoblauch
 tags: []
 categories: []

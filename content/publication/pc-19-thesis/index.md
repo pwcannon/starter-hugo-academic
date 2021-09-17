@@ -5,7 +5,7 @@ title: A Particle Markov Chain Monte Carlo Approach to Coalescent Inference
 subtitle: ''
 summary: ''
 authors:
-- admin
+- Patrick W Cannon
 tags: []
 categories: []
 date: '2019-01-01'

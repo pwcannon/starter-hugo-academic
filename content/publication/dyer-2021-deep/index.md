@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Joel Dyer
-- admin
+- Patrick W Cannon
 - Sebastian M Schmon
 tags: []
 categories: []
