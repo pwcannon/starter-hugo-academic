@@ -1,5 +1,5 @@
 ---
-title: Generalized posteriors in 
+title: Generalized posteriors in approximate Bayesian computation
 
 event: International society for Bayesian analysis (ISBA) world meeting
 event_url: https://events.stat.uconn.edu/ISBA2021/
