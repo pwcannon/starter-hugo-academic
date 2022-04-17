@@ -33,6 +33,6 @@ publishDate: '2021-09-17T08:29:16.197434Z'
 publication_types:
 - '0'
 abstract: ''
-publication: '*ArXiv preprint*'
+publication: '*International Conference on Artificial Intelligence and Statistics (AISTATS)*'
 url_pdf: https://arxiv.org/abs/2202.11585
 ---
